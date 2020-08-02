@@ -19,6 +19,7 @@ Genetic algorithms are commonly used to generate high-quality solutions to optim
 - Finance and Investment Strategies</br>
 - Marketing and Merchandising</br>
 not to mention many many many others.</br>
+
 ![Alt Text](https://media.giphy.com/media/RIwazerEvvqXIJ7yfw/giphy.gif)</br>
 
 ### 👊 What is this repository
@@ -28,6 +29,7 @@ Furthermore, these examples will highlight GAs' strengths as well as weaknesses.
 This repository is not a thorough tutorial about genetic algorithms. I'll be writing as many comments as possible but I believe some places might be a better start than this repo (places like Youtube for example). In that spirit you can find a list of useful resources in case you want to go any further into detail.</br>
 ### 🗂 Materials
 This repository is almost exclusively based on <a href= "https://www.amazon.com/Genetic-Algorithms-Java-Basics-Jacobson/dp/1484203291/ref=sr_1_1?dchild=1&keywords=Genetic+Algorithms+in+java+basics&qid=1596384658&sr=8-1">Genetic Algorithms in Java Basics</a> by Lee Jacobson and Burak Kanber.
+
 ![Alt Text](https://media.giphy.com/media/S8OGEjiHbC5x2ZR627/giphy.gif)
 
 ### 📚 Books 
