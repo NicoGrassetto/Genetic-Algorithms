@@ -1,2 +1,1 @@
-# -Genetic-Algorithm
-🧬 Genetic Algorithms written in Java.
+![Alt Text](https://i.imgur.com/KVppVpR.gif)
