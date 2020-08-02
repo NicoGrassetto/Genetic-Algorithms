@@ -1,1 +1,1 @@
-![Alt Text](https://giphy.com/gifs/Q94qHwIkZAbkN6cDJd)
+![Alt Text](https://media.giphy.com/media/Q94qHwIkZAbkN6cDJd/giphy.gif)
