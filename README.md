@@ -24,7 +24,11 @@ not to mention many many many others.</br>
 ### 👊 What is this repository?
 In this repository I aim at showing you how powerful genetic algorithms can be by giving you 4 real life examples of area / problems they can solve.</br>
 Furthermore, these examples will highlight GAs' strengths as well as weaknesses.</br>
-### What this repository is not?
+### 🚨 What this repository is not?
 I'll be writing as many comments as possible but I believe some places might be a better start than this repo (places like Youtube for example). In that spirit you can find a list of useful resources in case you want to go any further.</br>
 ![Alt Text](https://media.giphy.com/media/S8OGEjiHbC5x2ZR627/giphy.gif)
+
+### 🗂 Materials
+This repository is almost exclusively based on <a href= "https://www.amazon.com/Genetic-Algorithms-Java-Basics-Jacobson/dp/1484203291/ref=sr_1_1?dchild=1&keywords=Genetic+Algorithms+in+java+basics&qid=1596384658&sr=8-1">Genetic Algorithms in Java Basics</a> by Lee Jacobson and Burak Kanber.
+
 
